@@ -1,4 +1,4 @@
-package com.dimit.twoPart;
+package com.dimit.p2;
 
 /**
  * Dimit 2015年1月13日
@@ -24,5 +24,4 @@ public class SuccessVisitor extends AbstractVisitor {
 	public void visit(Monster m) {
 		System.out.println("当怪兽成功时。会笑得很难看。。。");
 	}
-
 }

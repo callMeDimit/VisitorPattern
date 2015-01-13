@@ -1,4 +1,4 @@
-package com.dimit.onePart;
+package com.dimit.p1;
 
 public class Client {
 	public static void main(String[] args) {
